@@ -40,7 +40,7 @@ global.packname = '2022'
 global.author = '© Mirzz-Md'
 
 //=============『 Apikey 』================== //
-global.APIs = { // API Prefix
+global.APIs = {'https://api.xteam.xyz' // API Prefix
   // name: 'https://website'
   amel: 'https://melcanz.com',
     bx: 'https://bx-hunter.herokuapp.com',
@@ -65,7 +65,7 @@ global.APIs = { // API Prefix
   LeysCoder: 'https://leyscoders-api.herokuapp.com',
   rey: 'https://server-api-rey.herokuapp.com'
 }
-global.APIKeys = { // APIKey Here
+global.APIKeys = {'https://api.lolhuman.xyz': 'Deffbotz' // APIKey Here
   // 'https://website': 'apikey'
   'https://melcanz.com': 'elaina',
   'https://server-api-rey.herokuapp.com': 'apirey',
